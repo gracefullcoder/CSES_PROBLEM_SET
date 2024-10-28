@@ -3,3 +3,6 @@
 tempCodeRunnerFile.*
 .vscode
 .cph
+stl.cpp
+*.cpp
+*.c++
